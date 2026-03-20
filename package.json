@@ -1,0 +1,23 @@
+{
+  "name": "api-aram-porul-inbam",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API — Aram Porul Inbam: The AI-Powered Life Operating System",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "next": "^14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "postcss": "^8.4.0",
+    "autoprefixer": "^10.4.0"
+  }
+}
